@@ -2,17 +2,17 @@
 A guide about Machine-learning
 ## 教材
 ### 机器学习(周志华)  
-
 note：https://github.com/Vay-keen/Machine-learning-learning-notes  
 公式推导：https://github.com/datawhalechina/pumpkin-book  
 
 ### 机器学习实战    
-
 note：https://github.com/Jack-Cherish/Machine-Learning（包含一些项目）  
-code  
+code：https://github.com/Thinkgamer/Machine-Learning-With-Python（Python实现）  
+
+
+### 统计学习基础
 - https://github.com/fengdu78/lihang-code  
-- https://github.com/Thinkgamer/Machine-Learning-With-Python（Python实现）  
-- https://github.com/wzyonggege/statistical-learning-method    
+- https://github.com/wzyonggege/statistical-learning-method  
 
 ## 参考资料 
 
