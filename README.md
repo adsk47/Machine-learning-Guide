@@ -10,7 +10,7 @@ note：https://github.com/Jack-Cherish/Machine-Learning（包含一些项目）
 code：https://github.com/Thinkgamer/Machine-Learning-With-Python（Python实现）  
 
 
-### 统计学习基础
+### 统计学习方法
 - https://github.com/fengdu78/lihang-code  
 - https://github.com/wzyonggege/statistical-learning-method  
 
