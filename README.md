@@ -1,21 +1,26 @@
 # Machine-learning-Guide
 A guide about Machine-learning
 ## 教材
-### 机器学习(周志华)   
+### 机器学习(周志华)  
+
 note：https://github.com/Vay-keen/Machine-learning-learning-notes  
 公式推导：https://github.com/datawhalechina/pumpkin-book  
-### 机器学习实战
+
+### 机器学习实战    
+
 note：https://github.com/Jack-Cherish/Machine-Learning（包含一些项目）  
-code：https://github.com/Thinkgamer/Machine-Learning-With-Python（Python实现）  
-      https://github.com/wzyonggege/statistical-learning-method  
+code  
+- https://github.com/fengdu78/lihang-code  
+- https://github.com/Thinkgamer/Machine-Learning-With-Python（Python实现）  
+- https://github.com/wzyonggege/statistical-learning-method    
 
 ## 参考资料 
 
-https://github.com/susanli2016/Machine-Learning-with-Python（常用算法python实现）  
-https://github.com/lawlite19/MachineLearning_Python（python实现，附简单笔记）  
-https://github.com/crownpku/Awesome-Chinese-NLP（中文NLP资源）  
-https://github.com/adsk47/awesome-machine-learning-cn（机器学习资源汇总）  
-https://github.com/fighting41love/funNLP（中文NLP库示例）  
+- https://github.com/susanli2016/Machine-Learning-with-Python（常用算法python实现）  
+- https://github.com/lawlite19/MachineLearning_Python（python实现，附简单笔记）  
+- https://github.com/crownpku/Awesome-Chinese-NLP（中文NLP资源）  
+- https://github.com/adsk47/awesome-machine-learning-cn（机器学习资源汇总）  
+- https://github.com/fighting41love/funNLP（中文NLP库示例）  
 
 ## 库和框架
 ### scikit-learn
